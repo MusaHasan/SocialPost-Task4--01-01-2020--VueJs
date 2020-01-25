@@ -1,2 +1,24 @@
-# SocialPost-Task4--01-01-2020--
- API handling, Showing 10 users social post from API data. This is my 4th task 
+# social_post_using_api
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
